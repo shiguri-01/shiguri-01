@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![learning](https://skillicons.dev/icons?i=javascript,typescript,react,nextjs&theme=dark)](https://skillicons.dev)
+
 <!--
 **shiguri-01/shiguri-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
