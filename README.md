@@ -1,4 +1,6 @@
-## Hi there 👋
+## こんにちは 👋
+
+I’m currently learning ...
 
 [![learning](https://skillicons.dev/icons?i=javascript,typescript,react,nextjs&theme=dark)](https://skillicons.dev)
 
